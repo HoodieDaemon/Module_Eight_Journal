@@ -1,1 +1,8 @@
-# Module_Eight_Journal
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+- I can interpret user needs by creating "user stories", as this allows me to put myself in my user's shoes. I can then implement the feedback I receive in order to help to create a better program. In addition to this, user stories help identify key features that would benefit users, something developers can often overlook because they're busy thinking from a developer standpoint.
+ 
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+- I approach developing programs with a user-focused mindset. During my time in the Navy as analyst, I frequently ran into many things that may have been easier or more elegant from a designer perspective but made it a struggle to use as a user. One agile process I hope to incorporate into my future development work would be the daily scrum meetings. I think that they're a great way to disseminate information among a team without overloading people or wasting their time. Another agile process I hope to use would be the sprint retrospective, as I feel like it helps to solidify lessons learned.
+
+What does it mean to be a good team member in software development?
+- Being a good team member in software development is not that much different from being a good team member in any other team effort. To be more precise, being a good team member in software development is about carrying your weight and contributing when needed. In terms of software development this means to attend scrum meetings, focus on what you are assigned to do, and assist others when possible.
